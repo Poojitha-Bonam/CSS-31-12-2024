@@ -1,0 +1,47 @@
+.container {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 15px;
+}
+.element {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid black;
+}
+.box1, .box2 {
+    width: 200px;
+    border: 5px solid black;
+    display: inline-block;
+}
+.box1 {
+    margin-right: 20px;
+}
+.box2 {
+    margin-left: 20px;
+}
+.parent {
+    height: 500px;
+    width: 100%;
+    border: 5px solid black;
+}
+.child {
+    height: 250px;
+    width: 50%;
+    margin-top: 120px;
+    margin-bottom: 10px;
+    margin-left: 400px;
+    border: 5px solid red;
+}
+.Box1 {
+    border: 5px solid black;
+    margin-top: 30px;
+    width: 300px;
+}
+.Box2 {
+    width: 300px;
+    border: 5px solid black;
+    margin-bottom: 30px; 
+}
